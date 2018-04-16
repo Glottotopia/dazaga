@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>keydown demo</title> 
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script> 
+    $(function(){
+    $(document).keypress(function(e){
+        if ($(e.target).is('input, textarea')) {
+                var path = "<img src='imgs/"+String.fromCharCode(e.keyCode)+".svg.png'/>";
+                $("#container").append(path);
+        };
+    });
+    });
+    </script>
+</head>
+<body> 
+<input type="textarea"> </input>
+<div id="container"/>  
+</body>
+</html>
