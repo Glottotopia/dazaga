@@ -3,12 +3,15 @@
 <head>
     <meta charset="utf-8">
     <title>keydown demo</title> 
+    <style>     
+    img {margin-right:3px;height:60px;}
+    </style>
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script> 
     $(function(){
     $(document).keypress(function(e){
         if ($(e.target).is('input, textarea')) {
-                var path = "<img src='imgs/"+String.fromCharCode(e.keyCode)+".svg.png'/>";
+                var path = "<img src='imgs/"+String.fromCharCode(e.keyCode)+".png'/>";
                 $("#container").append(path);
         };
     });
@@ -16,7 +19,7 @@
     </script>
 </head>
 <body> 
-<input type="textarea"> </input>
+<input type="textarea" size="100" focus="true" autofocus> </input>
 <div id="container"/>  
 </body>
 </html>
