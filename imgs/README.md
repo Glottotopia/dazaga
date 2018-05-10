@@ -1,4 +1,7 @@
-the following graphemes are represented by their Latin equivalent on the keyboard: p f b s t a x m w d n r g y o l z i h j k e u 
+the following graphemes are represented by their Latin equivalent on the keyboard:
+p ![alt text](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/p.png)
+
+f b s t a x m w d n r g y o l z i h j k e u 
 
 The following graphemes with dots are rendered as capitalized equivalents of the Latin letters for the undotted graphemes: R F D H
 (D also misses the diagonal stroke of d)
