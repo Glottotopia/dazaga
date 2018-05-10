@@ -1,4 +1,6 @@
-the following graphemes are represented by their Latin equivalent on the keyboard:
+Demo available on  https://glottotopia.github.io/dazaga/index.html (Chrome only)
+
+The following graphemes are represented by their Latin equivalent on the keyboard:
 
 p ![dazaga p](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/p.png)
 
