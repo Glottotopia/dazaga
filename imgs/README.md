@@ -1,4 +1,5 @@
 the following graphemes are represented by their Latin equivalent on the keyboard:
+
 p ![dazaga p](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/p.png)
 
 f ![dazaga f](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/f.png)
@@ -43,20 +44,40 @@ e ![dazaga e](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs
 
 u ![dazaga u](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/u.png)
 
-The following graphemes with dots are rendered as capitalized equivalents of the Latin letters for the undotted graphemes: R F D H
+The following graphemes with dots are rendered as capitalized equivalents of the Latin letters for the undotted graphemes:
+
+R ![dazaga R](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/R.png)
+
+F ![dazaga F](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/F.png)
+
+D ![dazaga D](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/D.png)
+
+H ![dazaga H](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/H.png)
+
 (D also misses the diagonal stroke of d)
 
-The following graphemes which would require digraphs in English are represented with single key strokes: S c x 
+The following graphemes which would require digraphs in English are represented with single key strokes:
 
-The velar and palatal nasals are mapped to q and Q
+S ![dazaga esh](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/S.png)
+
+c ![dazaga patatal affricate](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/c.png)
+
+x ![dazaga uvular fricative](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/x.png)
+
+The velar and palatal nasals are mapped to
+
+q ![dazaga velar nasal](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/q.png)
+
+and Q ![dazaga palatal nasal](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/Q.png)
 
 The remaining nasal of unclear quality is mapped on A 
+![dazaga spurious nasal](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/A.png)
 
-n with jasab is mapped on N
+n with jasab is mapped on N ![dazaga n with jasab](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/N.png)
 
-ageshid is mapped on I
+ageshid is mapped on I ![dazaga ageshid](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/I.png)
 
-nul is mapped on 0
+nul is mapped on 0 ![dazaga nul](https://raw.githubusercontent.com/glottotopia/dazaga/gh-pages/imgs/0.png)
 
 dagtu, jaagtu, and gossu are currently not represented. 
 
